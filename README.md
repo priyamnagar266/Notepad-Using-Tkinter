@@ -53,6 +53,4 @@ python notepad.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Make sure to replace `./images/notepad_home.png` and `./images/edit_file.png` with the actual path to your image files.
