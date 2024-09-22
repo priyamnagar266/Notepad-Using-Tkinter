@@ -1,14 +1,3 @@
-To add images of your Notepad UI in the README, you can follow these steps:
-
-1. **Take Screenshots** of your Notepad application's user interface (UI).
-   
-2. **Upload the Images** to your project directory (e.g., in a folder named `images`).
-
-3. **Reference the Images** in your README using Markdown syntax.
-
-Here’s how you can modify the README template to include images:
-
----
 
 # Notepad Application
 
